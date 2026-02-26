@@ -30,3 +30,7 @@ The app serves three primary user types:
 
 ## 🛠️ My Approach
 ### Development Philosophy
+
+---
+
+## 🔧 Tools and Libraries Used
