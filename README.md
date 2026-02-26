@@ -25,3 +25,8 @@ The app serves three primary user types:
 ### 🔔 Additional Features
 ### 🔔 Additional Features
 ### Architecture Pattern
+
+---
+
+## 🛠️ My Approach
+### Development Philosophy
