@@ -16,9 +16,7 @@
 ## ✨ Features
 The app serves three primary user types:
 ### 🔐 User Management & Authentication
-### 🔔 Additional Features
-### 🔔 Additional Features
-### Architecture 
+### 🔔 Additional Features 
 
 ---
 
