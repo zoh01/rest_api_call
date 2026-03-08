@@ -18,12 +18,7 @@ The app serves three primary user types:
 ### 🔐 User Management & Authentication
 ### 🔔 Additional Features
 ### 🔔 Additional Features
-### Architecture Pattern
-
----
-
-## 🛠️ My Approach
-### Development Philosophy
+### Architecture 
 
 ---
 
