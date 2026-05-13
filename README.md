@@ -23,5 +23,3 @@ The app serves three primary user types:
 ## 🔧 Tools and Libraries Used
 
 ---
-
-## ⚙️ How It Works
