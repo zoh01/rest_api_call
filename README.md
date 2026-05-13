@@ -29,5 +29,3 @@ The app serves three primary user types:
 2. ### Backend & Database
 
 ---
-
-## 📱 App Preview
